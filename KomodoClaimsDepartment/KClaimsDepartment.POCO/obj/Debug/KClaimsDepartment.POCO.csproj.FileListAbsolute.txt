@@ -1,0 +1,6 @@
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\KClaimsDepartment.POCO\bin\Debug\KClaimsDepartment.POCO.dll
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\KClaimsDepartment.POCO\bin\Debug\KClaimsDepartment.POCO.pdb
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\KClaimsDepartment.POCO\obj\Debug\KClaimsDepartment.POCO.csproj.AssemblyReference.cache
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\KClaimsDepartment.POCO\obj\Debug\KClaimsDepartment.POCO.csproj.CoreCompileInputs.cache
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\KClaimsDepartment.POCO\obj\Debug\KClaimsDepartment.POCO.dll
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\KClaimsDepartment.POCO\obj\Debug\KClaimsDepartment.POCO.pdb

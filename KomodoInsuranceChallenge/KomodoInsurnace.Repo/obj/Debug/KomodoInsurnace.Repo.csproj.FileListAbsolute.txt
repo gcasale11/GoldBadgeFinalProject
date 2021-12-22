@@ -1,0 +1,9 @@
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.Repo\bin\Debug\KomodoInsurnace.Repo.dll
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.Repo\bin\Debug\KomodoInsurnace.Repo.pdb
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.Repo\bin\Debug\KomodoInsurnace.POCO.dll
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.Repo\bin\Debug\KomodoInsurnace.POCO.pdb
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.Repo\obj\Debug\KomodoInsurnace.Repo.csproj.AssemblyReference.cache
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.Repo\obj\Debug\KomodoInsurnace.Repo.csproj.CoreCompileInputs.cache
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.Repo\obj\Debug\KomodoInsurnace.Repo.csproj.CopyComplete
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.Repo\obj\Debug\KomodoInsurnace.Repo.dll
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.Repo\obj\Debug\KomodoInsurnace.Repo.pdb

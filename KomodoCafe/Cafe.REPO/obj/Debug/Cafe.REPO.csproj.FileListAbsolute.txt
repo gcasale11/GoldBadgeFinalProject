@@ -1,0 +1,8 @@
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.REPO\bin\Debug\Cafe.REPO.dll
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.REPO\bin\Debug\Cafe.REPO.pdb
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.REPO\bin\Debug\Cafe.POCO.dll
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.REPO\bin\Debug\Cafe.POCO.pdb
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.REPO\obj\Debug\Cafe.REPO.csproj.AssemblyReference.cache
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.REPO\obj\Debug\Cafe.REPO.csproj.CoreCompileInputs.cache
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.REPO\obj\Debug\Cafe.REPO.dll
+C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.REPO\obj\Debug\Cafe.REPO.pdb
