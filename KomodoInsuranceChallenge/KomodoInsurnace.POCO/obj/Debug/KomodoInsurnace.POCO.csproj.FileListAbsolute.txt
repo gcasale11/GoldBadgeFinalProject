@@ -1,5 +1,0 @@
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.POCO\bin\Debug\KomodoInsurnace.POCO.dll
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.POCO\bin\Debug\KomodoInsurnace.POCO.pdb
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.POCO\obj\Debug\KomodoInsurnace.POCO.csproj.CoreCompileInputs.cache
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.POCO\obj\Debug\KomodoInsurnace.POCO.dll
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoInsuranceChallenge\KomodoInsurnace.POCO\obj\Debug\KomodoInsurnace.POCO.pdb

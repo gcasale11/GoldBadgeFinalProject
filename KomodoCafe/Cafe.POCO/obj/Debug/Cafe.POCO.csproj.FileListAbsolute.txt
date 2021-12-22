@@ -1,6 +1,0 @@
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.POCO\bin\Debug\Cafe.POCO.dll
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.POCO\bin\Debug\Cafe.POCO.pdb
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.POCO\obj\Debug\Cafe.POCO.csproj.AssemblyReference.cache
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.POCO\obj\Debug\Cafe.POCO.csproj.CoreCompileInputs.cache
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.POCO\obj\Debug\Cafe.POCO.dll
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoCafe\Cafe.POCO\obj\Debug\Cafe.POCO.pdb

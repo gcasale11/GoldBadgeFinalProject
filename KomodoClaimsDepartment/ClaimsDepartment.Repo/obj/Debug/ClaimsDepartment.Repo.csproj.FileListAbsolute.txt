@@ -1,9 +1,0 @@
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\ClaimsDepartment.Repo\bin\Debug\ClaimsDepartment.Repo.dll
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\ClaimsDepartment.Repo\bin\Debug\ClaimsDepartment.Repo.pdb
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\ClaimsDepartment.Repo\bin\Debug\KClaimsDepartment.POCO.dll
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\ClaimsDepartment.Repo\bin\Debug\KClaimsDepartment.POCO.pdb
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\ClaimsDepartment.Repo\obj\Debug\ClaimsDepartment.Repo.csproj.AssemblyReference.cache
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\ClaimsDepartment.Repo\obj\Debug\ClaimsDepartment.Repo.csproj.CoreCompileInputs.cache
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\ClaimsDepartment.Repo\obj\Debug\ClaimsDepartment.Repo.dll
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\ClaimsDepartment.Repo\obj\Debug\ClaimsDepartment.Repo.pdb
-C:\Users\gcasa\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeFinalProject\KomodoClaimsDepartment\ClaimsDepartment.Repo\obj\Debug\ClaimsDepartment.Repo.csproj.CopyComplete
